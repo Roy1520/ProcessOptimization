@@ -1,6 +1,6 @@
 # Project Description:
 
-This project involves optimizing the allocation of smalls (raw materials) for batch production of different blends to maximize monetary gain. The problem is approached using linear programming, specifically the HiGHS solver, to determine the optimal quantity of each smalls to add to each blend while respecting constraints on available quantities and maximum allowable addbacks per batch.
+This project involves optimizing the allocation of smalls (raw materials) for batch production of different blends to maximize monetary gain. The problem is approached using linear programming, specifically the HiGHS solver, to determine the optimal quantity of each smalls to add to each blend while respecting constraints on available quantities and maximum allowable addbacks per batch. While developing this program, I used openAI platforms to generate solutions to particular problems.
 
 ## The optimization process involves:
 
